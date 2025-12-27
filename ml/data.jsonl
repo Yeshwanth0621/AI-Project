@@ -1,0 +1,204 @@
+{"prompt": "Design 4-wheel rover chassis → ", "completion": "robotics (reason: autonomous mechanisms)"}
+{"prompt": "OTEC heat exchanger efficiency → ", "completion": "renewables (reason: energy conversion)"}
+{"prompt": "PID controller tuning for arm → ", "completion": "control systems (reason: error minimization)"}
+{"prompt": "Finite Element Analysis of beam → ", "completion": "simulation (reason: stress distribution)"}
+{"prompt": "Navier-Stokes equation solver → ", "completion": "fluid dynamics (reason: flow simulation)"}
+{"prompt": "SolidWorks surface lofting → ", "completion": "CAD (reason: complex geometry creation)"}
+{"prompt": "Decision tree for worker selection → ", "completion": "AI (reason: categorical classification)"}
+{"prompt": "Biodegradable plastic additive → ", "completion": "material science (reason: polymer degradation)"}
+{"prompt": "MATLAB thermal conductivity matrix → ", "completion": "computation (reason: heat transfer analysis)"}
+{"prompt": "Planetary gear ratio calculation → ", "completion": "mechanics (reason: torque multiplication)"}
+{"prompt": "Fluid-induced vibration harvesting → ", "completion": "energy harvesting (reason: aeroelastic flutter)"}
+{"prompt": "IGCAR safety protocol analysis → ", "completion": "industrial safety (reason: risk mitigation)"}
+{"prompt": "Stepper motor micro-stepping → ", "completion": "mechatronics (reason: precision positioning)"}
+{"prompt": "Bernoulli's principle application → ", "completion": "fluid mechanics (reason: pressure-velocity relation)"}
+{"prompt": "K-means clustering for defects → ", "completion": "machine learning (reason: unsupervised segmentation)"}
+{"prompt": "Injection molding gate design → ", "completion": "manufacturing (reason: flow optimization)"}
+{"prompt": "Lithium-ion battery thermal runaway → ", "completion": "thermodynamics (reason: heat dissipation)"}
+{"prompt": "Inverse kinematics for 6-DOF → ", "completion": "robotics (reason: joint angle calculation)"}
+{"prompt": "Carbon fiber layup orientation → ", "completion": "composites (reason: anisotropic strength)"}
+{"prompt": "Python API for sensor data → ", "completion": "software (reason: data acquisition)"}
+{"prompt": "Rankine cycle efficiency boost → ", "completion": "thermodynamics (reason: power generation)"}
+{"prompt": "3D printing overhang support → ", "completion": "additive manufacturing (reason: gravity compensation)"}
+{"prompt": "Kalman filter for localization → ", "completion": "robotics (reason: sensor fusion)"}
+{"prompt": "Hydrostatic bearing lubrication → ", "completion": "tribology (reason: friction reduction)"}
+{"prompt": "GitHub version control for CAD → ", "completion": "data management (reason: revision history)"}
+{"prompt": "Double wishbone suspension → ", "completion": "automotive (reason: kinematic stability)"}
+{"prompt": "Reynolds number calculation → ", "completion": "fluid mechanics (reason: turbulence prediction)"}
+{"prompt": "Tensile testing stress-strain → ", "completion": "material science (reason: mechanical properties)"}
+{"prompt": "Local server setup for hosting → ", "completion": "networking (reason: infrastructure deployment)"}
+{"prompt": "Convolutional Neural Network (CNN) → ", "completion": "AI (reason: image recognition)"}
+{"prompt": "Friction stir welding process → ", "completion": "manufacturing (reason: solid-state joining)"}
+{"prompt": "TIG welding cover gas flow → ", "completion": "manufacturing (reason: oxidation prevention)"}
+{"prompt": "Arduino PWM signal generation → ", "completion": "electronics (reason: voltage modulation)"}
+{"prompt": "Heat sink fin optimization → ", "completion": "heat transfer (reason: surface area maximization)"}
+{"prompt": "SLAM algorithm implementation → ", "completion": "robotics (reason: mapping and navigation)"}
+{"prompt": "Gear train backlash elimination → ", "completion": "precision engineering (reason: mechanical play)"}
+{"prompt": "Wind turbine blade pitch → ", "completion": "renewables (reason: aerodynamic efficiency)"}
+{"prompt": "H-bridge motor driver circuit → ", "completion": "electronics (reason: current direction control)"}
+{"prompt": "Genetic algorithm for optimization → ", "completion": "AI (reason: evolutionary search)"}
+{"prompt": "Fracture toughness testing → ", "completion": "material science (reason: crack propagation)"}
+{"prompt": "Centrifugal pump cavitation → ", "completion": "fluid dynamics (reason: pressure drop)"}
+{"prompt": "Piezoelectric sensor calibration → ", "completion": "instrumentation (reason: signal accuracy)"}
+{"prompt": "Laminar flow airfoil design → ", "completion": "aerodynamics (reason: drag reduction)"}
+{"prompt": "G-code generation for CNC → ", "completion": "CAM (reason: toolpath programming)"}
+{"prompt": "Modbus communication protocol → ", "completion": "automation (reason: industrial networking)"}
+{"prompt": "Solar PV MPPT controller → ", "completion": "renewables (reason: power maximization)"}
+{"prompt": "Sheet metal bend allowance → ", "completion": "manufacturing (reason: material deformation)"}
+{"prompt": "Ultrasonic non-destructive testing → ", "completion": "quality control (reason: internal defect detection)"}
+{"prompt": "Rack and pinion steering → ", "completion": "automotive (reason: rotary to linear motion)"}
+{"prompt": "Differential drive kinematics → ", "completion": "robotics (reason: wheel velocity control)"}
+{"prompt": "Phase change material storage → ", "completion": "thermodynamics (reason: latent heat)"}
+{"prompt": "API endpoint security auth → ", "completion": "software (reason: access control)"}
+{"prompt": "BLDC motor commutation → ", "completion": "mechatronics (reason: electronic switching)"}
+{"prompt": "Monte Carlo simulation → ", "completion": "statistics (reason: probability estimation)"}
+{"prompt": "Variable Frequency Drive (VFD) → ", "completion": "automation (reason: motor speed control)"}
+{"prompt": "Convective heat transfer coefficient → ", "completion": "thermodynamics (reason: fluid cooling)"}
+{"prompt": "Gyroscope drift compensation → ", "completion": "avionics (reason: inertial guidance)"}
+{"prompt": "Rustproofing galvanization → ", "completion": "chemistry (reason: corrosion resistance)"}
+{"prompt": "Object detection for safety → ", "completion": "computer vision (reason: hazard avoidance)"}
+{"prompt": "Hydraulic cylinder sizing → ", "completion": "fluid power (reason: force generation)"}
+{"prompt": "Buckling load of columns → ", "completion": "structural mechanics (reason: failure analysis)"}
+{"prompt": "Pneumatic actuator logic → ", "completion": "automation (reason: compressed air control)"}
+{"prompt": "Laser cutting kerf width → ", "completion": "manufacturing (reason: dimensional tolerance)"}
+{"prompt": "Supervised learning dataset → ", "completion": "AI (reason: labeled training)"}
+{"prompt": "Heat exchanger LMTD method → ", "completion": "thermodynamics (reason: temperature difference)"}
+{"prompt": "Vibration isolation damper → ", "completion": "dynamics (reason: resonance suppression)"}
+{"prompt": "MEMS accelerometer fabrication → ", "completion": "nanotechnology (reason: micro-machining)"}
+{"prompt": "Python Pandas for data analysis → ", "completion": "data science (reason: dataframe manipulation)"}
+{"prompt": "Regenerative braking system → ", "completion": "automotive (reason: energy recovery)"}
+{"prompt": "Turbulent flow modeling → ", "completion": "CFD (reason: chaotic fluid motion)"}
+{"prompt": "Vacuum gripper design → ", "completion": "robotics (reason: pick and place)"}
+{"prompt": "Die casting mold cooling → ", "completion": "manufacturing (reason: solidification rate)"}
+{"prompt": "Reinforcement learning agent → ", "completion": "AI (reason: reward-based training)"}
+{"prompt": "Stress concentration factor → ", "completion": "mechanics (reason: geometric discontinuity)"}
+{"prompt": "Thermoelectric generator (TEG) → ", "completion": "physics (reason: Seebeck effect)"}
+{"prompt": "Fatigue life cycle prediction → ", "completion": "mechanics (reason: cyclic loading)"}
+{"prompt": "Acoustic emission monitoring → ", "completion": "maintenance (reason: structural health)"}
+{"prompt": "Biomimetic robot locomotion → ", "completion": "robotics (reason: natural adaptation)"}
+{"prompt": "Powder metallurgy sintering → ", "completion": "manufacturing (reason: particle bonding)"}
+{"prompt": "Natural Language Processing (NLP) → ", "completion": "AI (reason: text understanding)"}
+{"prompt": "Flywheel energy storage → ", "completion": "mechanics (reason: rotational inertia)"}
+{"prompt": "Cryogenic tank insulation → ", "completion": "thermodynamics (reason: heat leak prevention)"}
+{"prompt": "Scara robot workspace → ", "completion": "robotics (reason: cylindrical reach)"}
+{"prompt": "Surface roughness measurement → ", "completion": "metrology (reason: finish quality)"}
+{"prompt": "Induction hardening process → ", "completion": "metallurgy (reason: surface wear resistance)"}
+{"prompt": "Local Large Language Model → ", "completion": "AI (reason: privacy-focused inference)"}
+{"prompt": "Radiative heat shielding → ", "completion": "aerospace (reason: thermal protection)"}
+{"prompt": "Interference fit tolerance → ", "completion": "assembly (reason: frictional holding)"}
+{"prompt": "Logic gate circuit design → ", "completion": "electronics (reason: boolean operations)"}
+{"prompt": "Water jet cutting pressure → ", "completion": "manufacturing (reason: abrasive erosion)"}
+{"prompt": "Gradient descent optimization → ", "completion": "mathematics (reason: loss minimization)"}
+{"prompt": "Geothermal heat pump → ", "completion": "renewables (reason: ground thermal exchange)"}
+{"prompt": "Carbon nanotube composites → ", "completion": "nanotechnology (reason: tensile strength)"}
+{"prompt": "Autonomous path planning → ", "completion": "robotics (reason: obstacle avoidance)"}
+{"prompt": "Soldering iron temperature → ", "completion": "electronics (reason: alloy melting)"}
+{"prompt": "Mohr's circle analysis → ", "completion": "mechanics (reason: principal stress)"}
+{"prompt": "API JSON response parsing → ", "completion": "programming (reason: data interchange)"}
+{"prompt": "Mechanical resonance test → ", "completion": "vibration analysis (reason: natural frequency)"}
+{"prompt": "Smart plastic bag material → ", "completion": "innovation (reason: wildlife safety)"}
+{"prompt": "Worker skillset classification → ", "completion": "data mining (reason: HR analytics)"}
+{"prompt": "Electric vehicle motor design → ", "completion": "automotive (reason: propulsion system)"}
+{"prompt": "Hydrodynamic cavitation reactor → ", "completion": "fluid dynamics (reason: bubble dynamics)"}
+{"prompt": "Robotic arm force feedback → ", "completion": "mechatronics (reason: tactile sensing)"}
+{"prompt": "Thermal imaging for inspection → ", "completion": "non-destructive testing (reason: heat pattern analysis)"}
+{"prompt": "3D CAD model optimization → ", "completion": "design engineering (reason: performance enhancement)"}    
+{"prompt": "Wireless sensor network → ", "completion": "IoT (reason: remote monitoring)"}
+{"prompt": "Hydraulic fracturing simulation → ", "completion": "geomechanics (reason: rock deformation)"}
+{"prompt": "Robotic swarm coordination → ", "completion": "robotics (reason: collective behavior)"}
+{"prompt": "Thermoplastic vs thermoset → ", "completion": "material science (reason: polymer properties)"}
+{"prompt": "API rate limiting strategy → ", "completion": "software engineering (reason: traffic management)"}
+{"prompt": "Vortex shedding analysis → ", "completion": "fluid dynamics (reason: oscillatory forces)"}
+{"prompt": "Electromagnetic interference (EMI) → ", "completion": "electronics (reason: signal disruption)"}
+{"prompt": "Robotic exoskeleton design → ", "completion": "biomechanics (reason: human augmentation)"}
+{"prompt": "Fuel cell membrane durability → ", "completion": "chemical engineering (reason: ion exchange)"}
+{"prompt": "Thermal expansion coefficient → ", "completion": "materials science (reason: dimensional change)"}
+{"prompt": "Autonomous drone navigation → ", "completion": "robotics (reason: flight control)"}
+{"prompt": "CFD turbulence modeling → ", "completion": "fluid mechanics (reason: chaotic flow prediction)"}
+{"prompt": "API documentation best practices → ", "completion": "software development (reason: usability enhancement)"}
+{"prompt": "Robotic gripper force control → ", "completion": "mechatronics (reason: object manipulation)"}
+{"prompt": "Heat pipe thermal management → ", "completion": "thermodynamics (reason: efficient heat transfer)"}
+{"prompt": "Additive manufacturing defects → ", "completion": "quality control (reason: process anomalies)"}
+{"prompt": "Robotic vision system → ", "completion": "computer vision (reason: environmental perception)"}
+{"prompt": "Thermal stress analysis → ", "completion": "mechanics (reason: temperature-induced deformation)"}
+{"prompt": "API load balancing techniques → ", "completion": "network engineering (reason: performance optimization)"}
+{"prompt": "Robotic arm trajectory planning → ", "completion": "robotics (reason: motion optimization)"}
+{"prompt": "Heat exchanger fouling prevention → ", "completion": "maintenance (reason: efficiency retention)"}
+{"prompt": "Additive manufacturing materials → ", "completion": "material science (reason: process compatibility)"}
+{"prompt": "Robotic system integration → ", "completion": "systems engineering (reason: component interoperability)"}
+{"prompt": "Thermal insulation materials → ", "completion": "building engineering (reason: energy conservation)"}
+{"prompt": "API versioning strategies → ", "completion": "software architecture (reason: backward compatibility)"}
+{"prompt": "Robotic path optimization → ", "completion": "robotics (reason: efficiency improvement)"}
+{"prompt": "Heat exchanger design parameters → ", "completion": "thermodynamics (reason: performance criteria)"}
+{"prompt": "Additive manufacturing post-processing → ", "completion": "manufacturing (reason: surface finish enhancement)"}
+{"prompt": "Robotic arm calibration → ", "completion": "mechatronics (reason: positional accuracy)"}
+{"prompt": "Thermal conductivity measurement → ", "completion": "material science (reason: heat transfer properties)"}
+{"prompt": "API security best practices → ", "completion": "cybersecurity (reason: data protection)"}
+{"prompt": "Robotic fleet management → ", "completion": "logistics (reason: operational efficiency)"}
+{"prompt": "Heat exchanger maintenance schedule → ", "completion": "maintenance engineering (reason: reliability improvement)"}
+{"prompt": "Additive manufacturing design guidelines → ", "completion": "design engineering (reason: manufacturability)"}
+{"prompt": "Robotic arm end-effector design → ", "completion": "mechanical engineering (reason: task-specific tooling)"}
+{"prompt": "Thermal imaging analysis → ", "completion": "non-destructive testing (reason: defect detection)"}
+{"prompt": "API performance monitoring → ", "completion": "software operations (reason: uptime assurance)"}
+{"prompt": "Robotic arm load capacity → ", "completion": "structural engineering (reason: strength assessment)"}
+{"prompt": "Heat exchanger material selection → ", "completion": "materials engineering (reason: corrosion resistance)"}
+{"prompt": "Additive manufacturing build orientation → ", "completion": "manufacturing (reason: mechanical property optimization)"}
+{"prompt": "Robotic arm joint design → ", "completion": "mechanical design (reason: range of motion)"}
+{"prompt": "Thermal cycling effects → ", "completion": "material science (reason: fatigue analysis)"}
+{"prompt": "API error handling strategies → ", "completion": "software development (reason: robustness enhancement)"}
+{"prompt": "Robotic arm speed optimization → ", "completion": "robotics (reason: cycle time reduction)"}
+{"prompt": "Heat exchanger flow configuration → ", "completion": "thermodynamics (reason: heat transfer efficiency)"}
+{"prompt": "Additive manufacturing support structures → ", "completion": "manufacturing (reason: overhang stability)"}
+{"prompt": "Robotic arm sensor integration → ", "completion": "mechatronics (reason: feedback control)"}
+{"prompt": "Thermal fatigue prevention → ", "completion": "mechanical engineering (reason: lifespan extension)"}
+{"prompt": "API scalability solutions → ", "completion": "software architecture (reason: user demand handling)"}
+{"prompt": "Robotic arm precision enhancement → ", "completion": "mechatronics (reason: accuracy improvement)"}
+{"prompt": "Heat exchanger pressure drop → ", "completion": "fluid mechanics (reason: flow resistance)"}
+{"prompt": "Additive manufacturing quality assurance → ", "completion": "quality control (reason: defect minimization)"}
+{"prompt": "Robotic arm workspace analysis → ", "completion": "robotics (reason: reachability assessment)"}
+{"prompt": "Thermal management in electronics → ", "completion": "electrical engineering (reason: overheating prevention)"}
+{"prompt": "API integration techniques → ", "completion": "software engineering (reason: system interoperability)"}
+{"prompt": "Robotic arm payload optimization → ", "completion": "mechanical engineering (reason: load handling)"}
+{"prompt": "Heat exchanger thermal performance → ", "completion": "thermodynamics (reason: efficiency evaluation)"}
+{"prompt": "Additive manufacturing process parameters → ", "completion": "manufacturing (reason: quality control)"}
+{"prompt": "Robotic arm kinematic analysis → ", "completion": "robotics (reason: motion study)"}
+{"prompt": "Thermal insulation performance → ", "completion": "building science (reason: energy efficiency)"}
+{"prompt": "API documentation tools → ", "completion": "software development (reason: ease of use)"}
+{"prompt": "Robotic arm energy consumption → ", "completion": "mechanical engineering (reason: efficiency optimization)"}
+{"prompt": "Heat exchanger corrosion prevention → ", "completion": "materials engineering (reason: longevity enhancement)"}
+{"prompt": "Additive manufacturing cost analysis → ", "completion": "manufacturing economics (reason: budget planning)"}
+{"prompt": "Robotic arm dynamic modeling → ", "completion": "robotics (reason: motion prediction)"}
+{"prompt": "Thermal comfort in buildings → ", "completion": "HVAC engineering (reason: occupant well-being)"}
+{"prompt": "API testing frameworks → ", "completion": "software quality assurance (reason: functionality verification)"}
+{"prompt": "Robotic arm fault diagnosis → ", "completion": "maintenance engineering (reason: downtime reduction)"}
+{"prompt": "Heat exchanger cleaning methods → ", "completion": "maintenance (reason: efficiency restoration)"}
+{"prompt": "Additive manufacturing environmental impact → ", "completion": "sustainability (reason: eco-friendly practices)"}
+{"prompt": "Robotic arm collaborative operation → ", "completion": "robotics (reason: human-robot interaction)"}
+{"prompt": "Thermal energy storage systems → ", "completion": "energy engineering (reason: load balancing)"}
+{"prompt": "API gateway implementation → ", "completion": "software architecture (reason: request management)"}
+{"prompt": "Robotic arm vibration analysis → ", "completion": "dynamics (reason: stability assessment)"}
+{"prompt": "Heat exchanger retrofit options → ", "completion": "maintenance engineering (reason: performance upgrade)"}
+{"prompt": "Additive manufacturing supply chain → ", "completion": "logistics (reason: material sourcing)"}
+{"prompt": "Robotic arm end-of-arm tooling → ", "completion": "mechanical design (reason: task adaptability)"}
+{"prompt": "Thermal imaging for predictive maintenance → ", "completion": "maintenance engineering (reason: early fault detection)"}
+{"prompt": "API rate limiting strategies → ", "completion": "software security (reason: abuse prevention)"}
+{"prompt": "Robotic arm multi-axis control → ", "completion": "robotics (reason: complex movement)"}
+{"prompt": "Heat exchanger design software → ", "completion": "engineering tools (reason: design efficiency)"}
+{"prompt": "Additive manufacturing intellectual property → ", "completion": "legal (reason: innovation protection)"}
+{"prompt": "Robotic arm end-effector customization → ", "completion": "mechanical engineering (reason: application-specific design)"}
+{"prompt": "Thermal management in data centers → ", "completion": "IT infrastructure (reason: equipment cooling)"}
+{"prompt": "API versioning best practices → ", "completion": "software development (reason: compatibility maintenance)"}
+{"prompt": "Robotic arm safety protocols → ", "completion": "occupational safety (reason: accident prevention)"}
+{"prompt": "Heat exchanger lifecycle analysis → ", "completion": "sustainability (reason: environmental impact)"}
+{"prompt": "Additive manufacturing workforce training → ", "completion": "human resources (reason: skill development)"}
+{"prompt": "Robotic arm remote operation → ", "completion": "teleoperation (reason: distance control)"}
+{"prompt": "Thermal imaging for building inspection → ", "completion": "building engineering (reason: energy loss detection)"}
+{"prompt": "API documentation standards → ", "completion": "software engineering (reason: consistency)"}
+{"prompt": "Robotic arm maintenance scheduling → ", "completion": "maintenance engineering (reason: reliability improvement)"}
+{"prompt": "Heat exchanger energy recovery → ", "completion": "thermodynamics (reason: waste heat utilization)"}
+{"prompt": "Additive manufacturing design for assembly → ", "completion": "design engineering (reason: ease of construction)"}
+{"prompt": "Robotic arm force sensing → ", "completion": "mechatronics (reason: interaction feedback)"}
+{"prompt": "Thermal imaging for electrical systems → ", "completion": "electrical engineering (reason: hotspot detection)"}
+{"prompt": "API security vulnerabilities → ", "completion": "cybersecurity (reason: threat mitigation)"}
+{"prompt": "Robotic arm end-effector force control → ", "completion": "mechatronics (reason: precise manipulation)"}
+{"prompt": "Heat exchanger thermal modeling → ", "completion": "thermodynamics (reason: performance prediction)"}

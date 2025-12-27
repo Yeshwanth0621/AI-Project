@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity Field Predictor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 800px;
+            width: 100%;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+            text-align: center;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 1.1em;
+        }
+
+        .input-section {
+            margin-bottom: 30px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #333;
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+
+        .input-wrapper {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 15px 20px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        input[type="text"]:focus {
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .result-section {
+            margin-top: 30px;
+            padding: 25px;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 15px;
+            display: none;
+            animation: slideIn 0.5s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateX(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .result-section.show {
+            display: block;
+        }
+
+        .result-item {
+            margin-bottom: 15px;
+        }
+
+        .result-label {
+            font-weight: 600;
+            color: #667eea;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 5px;
+        }
+
+        .result-value {
+            font-size: 18px;
+            color: #333;
+            padding: 10px;
+            background: white;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .examples {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 2px dashed #ddd;
+        }
+
+        .examples h3 {
+            color: #667eea;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+
+        .example-item {
+            display: inline-block;
+            margin: 5px;
+            padding: 8px 15px;
+            background: #f0f0f0;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-size: 14px;
+        }
+
+        .example-item:hover {
+            background: #667eea;
+            color: white;
+            transform: scale(1.05);
+        }
+
+        .loader {
+            display: none;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .loader.show {
+            display: block;
+        }
+
+        .error {
+            background: #fee;
+            border-left: 4px solid #f44;
+            color: #c33;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: none;
+        }
+
+        .error.show {
+            display: block;
+            animation: shake 0.5s ease;
+        }
+
+        @keyframes shake {
+
+            0%,
+            100% {
+                transform: translateX(0);
+            }
+
+            25% {
+                transform: translateX(-10px);
+            }
+
+            75% {
+                transform: translateX(10px);
+            }
+        }
+
+        .status-indicator {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 8px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        .status-online {
+            background: #4CAF50;
+        }
+
+        .status-offline {
+            background: #f44336;
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
+        }
+
+        .api-status {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            border-radius: 8px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>🤖 Activity Field Predictor</h1>
+        <p class="subtitle">Powered by Fine-Tuned DistilGPT-2</p>
+
+        <div id="apiStatus" class="api-status"></div>
+
+        <div class="input-section">
+            <label for="activityInput">Enter Engineering Activity:</label>
+            <div class="input-wrapper">
+                <input type="text" id="activityInput" placeholder="e.g., Design 4-wheel rover chassis → "
+                    autocomplete="off" />
+            </div>
+            <button id="predictBtn" onclick="predict()">
+                🔍 Predict Field
+            </button>
+        </div>
+
+        <div class="loader" id="loader"></div>
+        <div class="error" id="error"></div>
+
+        <div class="result-section" id="resultSection">
+            <div class="result-item">
+                <div class="result-label">📝 Activity</div>
+                <div class="result-value" id="activityResult"></div>
+            </div>
+            <div class="result-item">
+                <div class="result-label">🎯 Field</div>
+                <div class="result-value" id="fieldResult"></div>
+            </div>
+            <div class="result-item">
+                <div class="result-label">💡 Reason</div>
+                <div class="result-value" id="reasonResult"></div>
+            </div>
+        </div>
+
+        <div class="examples">
+            <h3>💡 Try These Examples:</h3>
+            <div class="example-item" onclick="fillExample('Design 4-wheel rover chassis →')">
+                Rover Design
+            </div>
+            <div class="example-item" onclick="fillExample('PID controller tuning for arm →')">
+                PID Control
+            </div>
+            <div class="example-item" onclick="fillExample('Convolutional Neural Network (CNN) →')">
+                CNN
+            </div>
+            <div class="example-item" onclick="fillExample('Solar panel efficiency optimization →')">
+                Solar Energy
+            </div>
+            <div class="example-item" onclick="fillExample('Autonomous drone navigation →')">
+                Drone Navigation
+            </div>
+            <div class="example-item" onclick="fillExample('Finite Element Analysis of beam →')">
+                FEA
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'http://localhost:8000';
+
+        // Check API status on load
+        async function checkAPIStatus() {
+            const statusDiv = document.getElementById('apiStatus');
+            try {
+                const response = await fetch(`${API_URL}/health`);
+                const data = await response.json();
+
+                if (data.model_ready) {
+                    statusDiv.innerHTML = `
+                        <span class="status-indicator status-online"></span>
+                        ${data.message}
+                    `;
+                    statusDiv.style.background = '#e8f5e9';
+                    statusDiv.style.color = '#2e7d32';
+                } else {
+                    statusDiv.innerHTML = `
+                        <span class="status-indicator status-offline"></span>
+                        ${data.message}
+                    `;
+                    statusDiv.style.background = '#fff3e0';
+                    statusDiv.style.color = '#e65100';
+                }
+            } catch (error) {
+                statusDiv.innerHTML = `
+                    <span class="status-indicator status-offline"></span>
+                    ⚠️ API server not running. Start with: python backend/ml_service.py
+                `;
+                statusDiv.style.background = '#ffebee';
+                statusDiv.style.color = '#c62828';
+            }
+        }
+
+        async function predict() {
+            const input = document.getElementById('activityInput').value.trim();
+            const loader = document.getElementById('loader');
+            const resultSection = document.getElementById('resultSection');
+            const errorDiv = document.getElementById('error');
+            const predictBtn = document.getElementById('predictBtn');
+
+            if (!input) {
+                showError('Please enter an activity description');
+                return;
+            }
+
+            // Hide previous results and errors
+            resultSection.classList.remove('show');
+            errorDiv.classList.remove('show');
+
+            // Show loader
+            loader.classList.add('show');
+            predictBtn.disabled = true;
+
+            try {
+                const response = await fetch(`${API_URL}/predict-field`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ activity: input })
+                });
+
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    throw new Error(errorData.detail || 'Prediction failed');
+                }
+
+                const data = await response.json();
+
+                // Display results
+                document.getElementById('activityResult').textContent = data.activity;
+                document.getElementById('fieldResult').textContent = data.field;
+                document.getElementById('reasonResult').textContent = data.reason;
+
+                resultSection.classList.add('show');
+
+            } catch (error) {
+                showError(error.message);
+            } finally {
+                loader.classList.remove('show');
+                predictBtn.disabled = false;
+            }
+        }
+
+        function fillExample(text) {
+            document.getElementById('activityInput').value = text;
+            document.getElementById('activityInput').focus();
+        }
+
+        function showError(message) {
+            const errorDiv = document.getElementById('error');
+            errorDiv.textContent = `❌ Error: ${message}`;
+            errorDiv.classList.add('show');
+            setTimeout(() => {
+                errorDiv.classList.remove('show');
+            }, 5000);
+        }
+
+        // Allow Enter key to trigger prediction
+        document.getElementById('activityInput').addEventListener('keypress', function (e) {
+            if (e.key === 'Enter') {
+                predict();
+            }
+        });
+
+        // Check API status on page load
+        checkAPIStatus();
+    </script>
+</body>
+
+</html>
