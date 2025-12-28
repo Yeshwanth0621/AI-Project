@@ -1,0 +1,501 @@
+ID,Name,Job_Role,Skills_Description,Availability,Experience_Years,Safety_Rating,Availability_Binary
+1,Julie Fisher,Carpenter,"Blueprint reading and site layout, OSHA 30 certified",Available,4,3.29,1
+2,Kristen Peck,Project Manager,"PMP certified, Risk management and reporting, Resource allocation and scheduling",Busy,5,3.7,0
+3,Steven Heath,HVAC Technician,"Chiller maintenance, Air balancing and ductwork fabrication, EPA 608 certified",Available,10,3.74,1
+4,Melissa Sanchez,General Laborer,"Warehouse picking, Site cleanup",Busy,4,3.27,0
+5,Joe Flowers,Forklift Operator,"Experienced with pallet stacking and warehouse safety, Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Experience with Wilson LLC equipment",Available,2,3.69,1
+6,Heidi Smith,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Experience with Harrington, Bennett and Moody equipment",Available,3,3.88,1
+7,Ashley Hansen,Data Analyst,"Power BI dashboards, ETL pipelines, Experience at Mcgrath-Small using AWS",Available,3,3.51,1
+8,Todd Ramirez,Safety Inspector,"Root cause incident analysis, Trains staff on lockout/tagout, Conducts site safety audits",Busy,16,4.85,0
+9,Sarah Larson DVM,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Available,10,3.85,1
+10,Michelle Hardy,Carpenter,"Finish carpentry and framing, OSHA 30 certified, Cabinet installation, Blueprint reading and site layout",Busy,5,3.8,0
+11,Jason Morales,Project Manager,"Risk management and reporting, PMP certified",Busy,15,4.84,0
+12,Ashley Cook,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Available,7,3.56,1
+13,Joseph King,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Works per ASME standards",Busy,14,4.26,0
+14,Keith Stephens,Carpenter,"Blueprint reading and site layout, Cabinet installation, OSHA 30 certified, Finish carpentry and framing",Available,13,3.81,1
+15,Alexandria Smith,Electrician,"High-voltage maintenance, Licensed industrial electrician, Works per NFPA standards",Available,11,4.58,1
+16,Timothy Bailey,Electrician,"Troubleshooting PLC and control panels, NFPA 70E compliant, Licensed industrial electrician, Works per ANSI standards",Available,18,4.69,1
+17,James Mitchell,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Busy,14,4.51,0
+18,Jacqueline Johnson,Electrician,"Troubleshooting PLC and control panels, Licensed industrial electrician, High-voltage maintenance, NFPA 70E compliant, Works per NFPA standards",Available,14,4.78,1
+19,Christian Henry,Forklift Operator,"Experienced with pallet stacking and warehouse safety, Certified Forklift Operator, OSHA-compliant material handling, Experience with Smith, Shelton and Robinson equipment",Available,7,3.71,1
+20,Jillian Wilson,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Experience with Bennett-Lam equipment",Available,9,4.18,1
+21,Christopher Ortiz,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Busy,14,4.3,0
+22,Lisa Morales,HVAC Technician,"Chiller maintenance, EPA 608 certified, Air balancing and ductwork fabrication",Available,11,3.58,1
+23,Abigail Cobb,Carpenter,"Finish carpentry and framing, Cabinet installation",Busy,8,3.48,0
+24,Cindy Alvarez,Carpenter,"Blueprint reading and site layout, Finish carpentry and framing, Cabinet installation, OSHA 30 certified",Busy,4,3.42,0
+25,Kelly Matthews,Electrician,"NFPA 70E compliant, Troubleshooting PLC and control panels, Works per ANSI standards",Busy,10,4.0,0
+26,Charles Espinoza,Python Backend Developer,"Docker and CI/CD, FastAPI microservices, PostgreSQL optimization, Python Backend Developer, Experience at Montgomery Inc using GCP",Available,4,3.83,1
+27,Dominique Rivera,Project Manager,"PMP certified, Resource allocation and scheduling, Risk management and reporting",Busy,13,4.52,0
+28,David Meyer,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Preventive maintenance scheduling, Experience with Watson, Little and Bowers equipment",Available,10,4.11,1
+29,Anthony Paul,Welder,"Experience welding stainless and aluminum, Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Expert in TIG welding, Works per NFPA standards",Available,7,3.41,1
+30,Michael Mccarthy,Project Manager,"Risk management and reporting, PMP certified",Busy,18,4.74,0
+31,Aaron Frazier,Forklift Operator,"OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, Experience with Harris, May and Garza equipment",Available,14,3.9,1
+32,Shawn Brown,Forklift Operator,"Certified Forklift Operator, Experienced with pallet stacking and warehouse safety, Experience with Long-Allen equipment",Busy,14,4.33,0
+33,Latoya Reyes,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Available,18,4.49,1
+34,Robin Jones,Safety Inspector,"Root cause incident analysis, Trains staff on lockout/tagout",Available,19,4.75,1
+35,Hector Haynes,HVAC Technician,"Air balancing and ductwork fabrication, EPA 608 certified, Chiller maintenance",Available,12,4.1,1
+36,Neil Clark,Welder,"Certified in ASME Section IX welding, Expert in TIG welding, Experience welding stainless and aluminum, Proficient in MIG welding for thin-gauge steel, Works per ASME standards",Available,8,4.12,1
+37,Kimberly Miller,Python Backend Developer,"PostgreSQL optimization, Python Backend Developer, FastAPI microservices, Experience at Charles LLC using GCP",Available,9,3.75,1
+38,Shane Costa,Welder,"Expert in TIG welding, Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Works per ASME standards",Available,4,3.23,1
+39,Scott Keller,Electrician,"Licensed industrial electrician, High-voltage maintenance, Works per NFPA standards",Available,10,4.24,1
+40,Molly Brown MD,Welder,"Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Works per ANSI standards",Available,2,3.54,1
+41,Rick Smith V,Welder,"Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Expert in TIG welding, Certified in ASME Section IX welding, Works per NFPA standards",Busy,11,3.77,0
+42,Sarah Valdez,Data Analyst,"Power BI dashboards, ETL pipelines, SQL data modeling, Experience at Williams-Shields using Azure",Busy,11,4.29,0
+43,Laurie Jacobs,Welder,"Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Expert in TIG welding, Experience welding stainless and aluminum, Works per NFPA standards",Available,2,3.44,1
+44,Michael Mcconnell,Carpenter,"Cabinet installation, Blueprint reading and site layout, OSHA 30 certified",Busy,5,3.29,0
+45,James Sherman,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Hernandez and Sons using AWS",Busy,9,3.84,0
+46,Colleen Collins,Electrician,"Troubleshooting PLC and control panels, Licensed industrial electrician, NFPA 70E compliant, Works per ANSI standards",Busy,10,3.98,0
+47,Wendy Lucero,Python Backend Developer,"FastAPI microservices, Docker and CI/CD, PostgreSQL optimization, Python Backend Developer, Experience at Robinson-Gentry using Azure",Available,4,3.57,1
+48,Shelby Hicks,Python Backend Developer,"Python Backend Developer, PostgreSQL optimization, Docker and CI/CD, FastAPI microservices, Experience at Larsen, Hill and Pruitt using Azure",Busy,1,3.6,0
+49,Stacy Reed,Data Analyst,"ETL pipelines, Power BI dashboards, SQL data modeling, Experience at Chapman Inc using AWS",Available,1,3.06,1
+50,Carla Hayes,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Preventive maintenance scheduling, Experience with Brown, Alvarez and Davis equipment",Available,6,3.94,1
+51,Morgan Martinez,HVAC Technician,"Chiller maintenance, EPA 608 certified",Available,8,3.98,1
+52,Megan Myers,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication",Available,4,3.69,1
+53,Mitchell Hamilton,Project Manager,"PMP certified, Risk management and reporting, Resource allocation and scheduling",Available,10,4.58,1
+54,Michael Morgan,Data Analyst,"ETL pipelines, SQL data modeling, Power BI dashboards, Experience at Bailey-Terry using GCP",Available,4,3.7,1
+55,Erik Vazquez,Mechanic,"Preventive maintenance scheduling, Diesel engine diagnostics, Experience with Silva-Eaton equipment",Busy,13,4.45,0
+56,Rebecca Turner,Welder,"Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Certified in ASME Section IX welding, Works per ASME standards",Available,11,3.94,1
+57,Kenneth Rodriguez,General Laborer,"Site cleanup, Basic tool operation",Available,9,3.85,1
+58,Tracey Coleman,Carpenter,"OSHA 30 certified, Cabinet installation, Finish carpentry and framing",Busy,5,3.26,0
+59,Brandon Gregory,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Perez-Gilbert using GCP",Available,1,3.57,1
+60,Thomas Gonzalez,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout",Busy,7,3.87,0
+61,Andrew Alvarez,Safety Inspector,"Root cause incident analysis, Trains staff on lockout/tagout",Available,9,4.16,1
+62,Thomas Murphy,Electrician,"Licensed industrial electrician, NFPA 70E compliant, Works per NFPA standards",Available,19,4.39,1
+63,Christopher Freeman,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Available,13,4.32,1
+64,Shawn Mills,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Available,4,3.58,1
+65,Mary Robertson,Carpenter,"Finish carpentry and framing, Cabinet installation, OSHA 30 certified",Busy,12,3.65,0
+66,Katherine Pham,Data Analyst,"SQL data modeling, Power BI dashboards, Experience at George PLC using AWS",Available,2,3.27,1
+67,Robert Gillespie,Mechanic,"Hydraulic system repair, Preventive maintenance scheduling, Diesel engine diagnostics, Experience with Richmond, Chavez and Bernard equipment",Available,10,3.62,1
+68,Michael Scott,Welder,"Certified in ASME Section IX welding, Experience welding stainless and aluminum, Works per NFPA standards",Available,4,3.93,1
+69,Timothy Walker,Safety Inspector,"Trains staff on lockout/tagout, Conducts site safety audits, Root cause incident analysis",Busy,19,4.42,0
+70,John Juarez,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, OSHA-compliant material handling, Experienced with pallet stacking and warehouse safety, Experience with Kemp-Owens equipment",Available,4,3.86,1
+71,Kyle Bryant,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Busy,17,4.75,0
+72,Kyle Crawford,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, OSHA-compliant material handling, Experience with Steele, Berry and Ward equipment",Available,13,4.4,1
+73,Debra Sanchez,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Busy,15,4.38,0
+74,William Gonzalez,Data Analyst,"ETL pipelines, SQL data modeling, Power BI dashboards, Experience at Carr, Caldwell and Bonilla using Azure",Busy,9,3.68,0
+75,Erica Whitehead,Carpenter,"Finish carpentry and framing, Cabinet installation, Blueprint reading and site layout, OSHA 30 certified",Available,10,4.24,1
+76,Richard Brown,Electrician,"NFPA 70E compliant, Licensed industrial electrician, Works per ANSI standards",Busy,17,4.66,0
+77,Amanda Salazar,Project Manager,"Risk management and reporting, PMP certified",Busy,11,4.58,0
+78,David Steele,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Available,16,4.55,1
+79,Monique Brandt,Mechanic,"Hydraulic system repair, Diesel engine diagnostics, Experience with Mcdonald-House equipment",Available,4,3.62,1
+80,Nicholas Bryant,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Available,18,4.65,1
+81,Amber Orozco,Electrician,"Troubleshooting PLC and control panels, NFPA 70E compliant, High-voltage maintenance, Licensed industrial electrician, Works per ASME standards",Available,15,4.47,1
+82,Bradley Jones,Python Backend Developer,"FastAPI microservices, Python Backend Developer, PostgreSQL optimization, Docker and CI/CD, Experience at Williams LLC using Azure",Busy,4,3.28,0
+83,Amber Edwards,Project Manager,"Risk management and reporting, PMP certified",Busy,20,4.6,0
+84,Steven Stokes,Safety Inspector,"Root cause incident analysis, Conducts site safety audits, Trains staff on lockout/tagout",Busy,11,4.03,0
+85,Aaron Williams,Carpenter,"Blueprint reading and site layout, Cabinet installation, OSHA 30 certified, Finish carpentry and framing",Busy,15,4.02,0
+86,Kevin Williams,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Available,7,3.33,1
+87,David Brown,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Busy,19,4.61,0
+88,Kelly Wilkerson,General Laborer,"Warehouse picking, Basic tool operation, Site cleanup",Busy,4,3.09,0
+89,Gary Benitez,Forklift Operator,"Experienced with pallet stacking and warehouse safety, Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Certified Forklift Operator, Experience with Gray, Velasquez and Tyler equipment",Busy,2,3.55,0
+90,Mallory Mendoza,Safety Inspector,"Root cause incident analysis, Conducts site safety audits, Trains staff on lockout/tagout",Busy,8,3.96,0
+91,Elaine Nguyen,Safety Inspector,"Conducts site safety audits, Trains staff on lockout/tagout, Root cause incident analysis",Busy,17,4.44,0
+92,Madeline Neal,HVAC Technician,"Chiller maintenance, EPA 608 certified, Air balancing and ductwork fabrication",Busy,5,3.44,0
+93,Glenn Gallagher,Data Analyst,"SQL data modeling, Power BI dashboards, Experience at Howell, Martin and Parker using Azure",Available,5,4.03,1
+94,Karen Rivera,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, NFPA 70E compliant, Works per ANSI standards",Busy,11,4.29,0
+95,Mark Erickson,HVAC Technician,"Chiller maintenance, Air balancing and ductwork fabrication, EPA 608 certified",Busy,5,3.95,0
+96,Corey Oconnor,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Works per ASME standards",Available,8,3.91,1
+97,William Sawyer,Forklift Operator,"OSHA-compliant material handling, Certified Forklift Operator, Experienced with pallet stacking and warehouse safety, Operates Toyota 8FGCU25 forklifts, Experience with Andrews, Lamb and Little equipment",Busy,12,3.74,0
+98,Francisco Webb,Carpenter,"Finish carpentry and framing, OSHA 30 certified",Available,10,4.08,1
+99,Elizabeth Solis,Data Analyst,"Power BI dashboards, ETL pipelines, SQL data modeling, Experience at Marshall, Adams and Pena using AWS",Available,10,4.26,1
+100,Keith Wright,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout, OSHA 30 certified",Available,4,3.49,1
+101,Mrs. Janice Martinez MD,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, Licensed industrial electrician, Works per ANSI standards",Available,14,4.69,1
+102,Jeffrey Mcclain,Python Backend Developer,"PostgreSQL optimization, Docker and CI/CD, FastAPI microservices, Experience at Williams, Barrett and Ruiz using Azure",Available,5,3.39,1
+103,Dawn Jenkins,Carpenter,"Blueprint reading and site layout, Finish carpentry and framing",Available,2,3.57,1
+104,Ann Richards,Data Analyst,"ETL pipelines, Power BI dashboards, Experience at Day, Swanson and Snow using GCP",Busy,9,4.1,0
+105,Dominique Martinez,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout, Cabinet installation, OSHA 30 certified",Available,10,3.65,1
+106,Jocelyn Grant,Data Analyst,"SQL data modeling, Power BI dashboards, ETL pipelines, Experience at Cooke PLC using GCP",Busy,1,3.74,0
+107,Louis Thomas,General Laborer,"Warehouse picking, Site cleanup, Basic tool operation",Busy,6,3.66,0
+108,Donald Wilson,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Certified in ASME Section IX welding, Works per ANSI standards",Available,7,3.78,1
+109,Angela Thomas,Data Analyst,"Power BI dashboards, ETL pipelines, Experience at Parks Group using AWS",Available,9,3.8,1
+110,Shawn Weber,General Laborer,"Basic tool operation, Warehouse picking",Busy,5,3.19,0
+111,Amanda Hughes,Welder,"Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Works per NFPA standards",Busy,5,3.55,0
+112,Julia Richardson,Forklift Operator,"Experienced with pallet stacking and warehouse safety, Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, Experience with Farmer-Smith equipment",Available,3,3.14,1
+113,Jennifer Young,Carpenter,"Cabinet installation, Finish carpentry and framing",Available,8,4.14,1
+114,Benjamin Chandler,Electrician,"High-voltage maintenance, Licensed industrial electrician, Works per NFPA standards",Busy,19,4.73,0
+115,Krystal Valdez,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Experience welding stainless and aluminum, Expert in TIG welding, Works per ANSI standards",Busy,3,3.3,0
+116,Eric Stuart,Mechanic,"Hydraulic system repair, Diesel engine diagnostics, Preventive maintenance scheduling, Experience with Carson, Rodriguez and Garcia equipment",Available,9,3.76,1
+117,Darlene Delacruz,General Laborer,"Site cleanup, Warehouse picking",Busy,4,3.07,0
+118,William Lucas,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, Experience with Gray-Barton equipment",Available,6,3.88,1
+119,Amanda Curtis,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Williams, Drake and James using GCP",Available,1,3.82,1
+120,Matthew Owen,Safety Inspector,"Trains staff on lockout/tagout, Conducts site safety audits, Root cause incident analysis",Available,11,3.97,1
+121,Anthony King,HVAC Technician,"EPA 608 certified, Chiller maintenance",Busy,9,4.06,0
+122,Susan Manning,General Laborer,"Warehouse picking, Site cleanup",Available,8,3.22,1
+123,Jessica Weiss,Electrician,"Licensed industrial electrician, Troubleshooting PLC and control panels, Works per ANSI standards",Available,17,4.54,1
+124,Karen Farrell,Safety Inspector,"Trains staff on lockout/tagout, Conducts site safety audits",Busy,14,4.4,0
+125,Tiffany Morrison,Electrician,"NFPA 70E compliant, Licensed industrial electrician, Works per ANSI standards",Available,18,4.9,1
+126,Ian Whitaker,Welder,"Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Works per ANSI standards",Available,6,3.96,1
+127,Laura Davis,Python Backend Developer,"PostgreSQL optimization, FastAPI microservices, Python Backend Developer, Docker and CI/CD, Experience at Mitchell-Porter using GCP",Available,10,4.02,1
+128,Tiffany Barker,Python Backend Developer,"Python Backend Developer, Docker and CI/CD, PostgreSQL optimization, Experience at Nielsen PLC using Azure",Available,11,3.7,1
+129,Ryan Hardy,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Experienced with pallet stacking and warehouse safety, Experience with Sanchez and Sons equipment",Busy,8,3.42,0
+130,William Smith,Carpenter,"Blueprint reading and site layout, OSHA 30 certified, Cabinet installation",Available,8,3.54,1
+131,Alexander Simon,Project Manager,"PMP certified, Risk management and reporting, Resource allocation and scheduling",Available,17,4.82,1
+132,Jessica Hughes,Welder,"Expert in TIG welding, Experience welding stainless and aluminum, Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Works per ANSI standards",Available,9,3.89,1
+133,Amber Orr,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Available,9,3.54,1
+134,Eric Collins,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Available,8,3.73,1
+135,Robert Smith,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Available,12,4.38,1
+136,Charles Norton,Safety Inspector,"Root cause incident analysis, Trains staff on lockout/tagout, Conducts site safety audits",Busy,11,3.99,0
+137,Daniel Gentry,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis",Available,19,4.93,1
+138,Alyssa Lopez,HVAC Technician,"Chiller maintenance, EPA 608 certified, Air balancing and ductwork fabrication",Available,4,3.36,1
+139,Christopher Ball,Welder,"Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Works per NFPA standards",Busy,11,3.63,0
+140,Jamie Woods,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Works per ASME standards",Busy,2,3.73,0
+141,Bradley Cooper,General Laborer,"Basic tool operation, Site cleanup, Warehouse picking",Available,5,3.11,1
+142,Jenna Wilson PhD,Data Analyst,"ETL pipelines, Power BI dashboards, Experience at Clark, Brooks and Fowler using AWS",Available,9,3.98,1
+143,Caitlin Stewart,Data Analyst,"Power BI dashboards, SQL data modeling, Experience at Casey, Mcdonald and Garza using Azure",Busy,5,3.72,0
+144,Diana Sanders,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Available,17,4.38,1
+145,Courtney Cox,Project Manager,"PMP certified, Resource allocation and scheduling, Risk management and reporting",Available,10,4.24,1
+146,Robert Williams Jr.,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Experience with Schneider, Thompson and Crawford equipment",Available,9,4.09,1
+147,Erika Carr,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Available,7,3.35,1
+148,Brian Jordan,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Diesel engine diagnostics, Experience with Moreno-Bryan equipment",Busy,4,3.65,0
+149,Reginald Adkins,Mechanic,"Hydraulic system repair, Diesel engine diagnostics, Preventive maintenance scheduling, Experience with Garcia, Cochran and Roberts equipment",Available,14,4.34,1
+150,Alexander Martinez,Python Backend Developer,"FastAPI microservices, Docker and CI/CD, Python Backend Developer, PostgreSQL optimization, Experience at Petersen, Mcdonald and James using AWS",Busy,9,4.29,0
+151,Steven Lyons,Forklift Operator,"Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Experience with Greene, Mercer and Manning equipment",Available,8,3.5,1
+152,Kristin Davis,Electrician,"NFPA 70E compliant, High-voltage maintenance, Troubleshooting PLC and control panels, Licensed industrial electrician, Works per NFPA standards",Available,13,4.3,1
+153,Paul Munoz,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Busy,1,3.32,0
+154,Laurie Mayer,General Laborer,"Basic tool operation, Warehouse picking, Site cleanup",Busy,0,2.72,0
+155,Charles Wade,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Fuller-Jenkins using AWS",Busy,8,3.76,0
+156,Lauren Dominguez,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Available,14,4.17,1
+157,Dale Mayo,Safety Inspector,"Trains staff on lockout/tagout, Conducts site safety audits",Busy,7,4.04,0
+158,Alexander Yoder,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Experience with Valenzuela LLC equipment",Available,15,4.6,1
+159,Amy Oliver,Forklift Operator,"Experienced with pallet stacking and warehouse safety, OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Experience with Anderson-Munoz equipment",Busy,11,3.69,0
+160,Tracey Haas,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Diesel engine diagnostics, Experience with Guzman Group equipment",Busy,5,3.86,0
+161,Eric Steele,Electrician,"NFPA 70E compliant, Troubleshooting PLC and control panels, High-voltage maintenance, Works per ANSI standards",Available,11,4.32,1
+162,Amanda Hernandez,Electrician,"Licensed industrial electrician, High-voltage maintenance, NFPA 70E compliant, Troubleshooting PLC and control panels, Works per ASME standards",Available,6,4.25,1
+163,Derek Flores,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, Licensed industrial electrician, NFPA 70E compliant, Works per ANSI standards",Available,18,4.6,1
+164,Tara Wilson,Project Manager,"PMP certified, Resource allocation and scheduling, Risk management and reporting",Available,13,4.28,1
+165,Brenda Jenkins,General Laborer,"Basic tool operation, Warehouse picking, Site cleanup",Available,8,3.95,1
+166,Roger Martin,Welder,"Certified in ASME Section IX welding, Expert in TIG welding, Experience welding stainless and aluminum, Proficient in MIG welding for thin-gauge steel, Works per NFPA standards",Available,7,3.54,1
+167,Jason Freeman,Welder,"Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Certified in ASME Section IX welding, Expert in TIG welding, Works per ASME standards",Available,9,3.94,1
+168,Rachel Parker,General Laborer,"Site cleanup, Warehouse picking, Basic tool operation",Busy,0,3.23,0
+169,Joseph Gonzalez,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Busy,12,3.95,0
+170,Robert Morgan,Forklift Operator,"OSHA-compliant material handling, Experienced with pallet stacking and warehouse safety, Operates Toyota 8FGCU25 forklifts, Experience with Lawson PLC equipment",Busy,6,3.39,0
+171,Mark Taylor,HVAC Technician,"EPA 608 certified, Chiller maintenance, Air balancing and ductwork fabrication",Busy,15,4.56,0
+172,Nicole Martin,Welder,"Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Works per ANSI standards",Busy,13,3.96,0
+173,Ariel Fisher,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, Works per ASME standards",Busy,20,4.94,0
+174,Eric Gomez,Forklift Operator,"Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, Experience with Richmond-Yates equipment",Available,7,3.68,1
+175,Amy Hudson,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Experience welding stainless and aluminum, Works per ANSI standards",Busy,10,4.03,0
+176,John Johnson,Forklift Operator,"Certified Forklift Operator, OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Experienced with pallet stacking and warehouse safety, Experience with Webster-Griffin equipment",Available,10,4.26,1
+177,Kelly Sweeney,General Laborer,"Warehouse picking, Basic tool operation, Site cleanup",Busy,8,3.25,0
+178,Thomas Simpson,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Busy,5,3.7,0
+179,Lee Sanchez,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Available,20,4.74,1
+180,Jason Mooney,General Laborer,"Basic tool operation, Site cleanup, Warehouse picking",Available,3,2.99,1
+181,Jenna Fisher,HVAC Technician,"Chiller maintenance, Air balancing and ductwork fabrication, EPA 608 certified",Available,10,3.92,1
+182,Taylor Copeland,General Laborer,"Basic tool operation, Warehouse picking, Site cleanup",Busy,9,3.3,0
+183,Valerie Moore,Carpenter,"Blueprint reading and site layout, Finish carpentry and framing, Cabinet installation",Available,7,3.75,1
+184,William Johnson,Python Backend Developer,"Docker and CI/CD, PostgreSQL optimization, FastAPI microservices, Python Backend Developer, Experience at Richard LLC using GCP",Available,8,3.73,1
+185,Donna Blake,Safety Inspector,"Conducts site safety audits, Trains staff on lockout/tagout",Busy,16,4.4,0
+186,Kelsey Reed,Welder,"Certified in ASME Section IX welding, Experience welding stainless and aluminum, Works per ASME standards",Available,13,4.36,1
+187,Rodney Miller,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Certified Forklift Operator, Experienced with pallet stacking and warehouse safety, Experience with Owen-Young equipment",Available,3,3.5,1
+188,Robert Gonzalez,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, Licensed industrial electrician, NFPA 70E compliant, Works per ANSI standards",Available,10,4.53,1
+189,Brittney Rangel,Python Backend Developer,"FastAPI microservices, Docker and CI/CD, Python Backend Developer, PostgreSQL optimization, Experience at James and Sons using GCP",Available,1,3.38,1
+190,Jeffrey Salinas,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Diesel engine diagnostics, Experience with Case, Stewart and White equipment",Busy,4,3.92,0
+191,Deborah Richardson,Safety Inspector,"Conducts site safety audits, Root cause incident analysis, Trains staff on lockout/tagout",Busy,18,4.84,0
+192,Brittany Beard,Project Manager,"Resource allocation and scheduling, Risk management and reporting",Busy,18,5.0,0
+193,Tracey Gibson,Mechanic,"Diesel engine diagnostics, Preventive maintenance scheduling, Hydraulic system repair, Experience with Pope-Wilson equipment",Available,2,3.44,1
+194,Jason Rodriguez,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Busy,15,4.16,0
+195,Stefanie Lambert,Mechanic,"Hydraulic system repair, Preventive maintenance scheduling, Experience with Brown-Carpenter equipment",Available,7,3.51,1
+196,Eugene Norris,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,14,4.05,1
+197,Holly Hensley,Project Manager,"Resource allocation and scheduling, PMP certified",Available,5,3.95,1
+198,Jim Rodriguez,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Busy,17,5.0,0
+199,Paul Williams,HVAC Technician,"EPA 608 certified, Chiller maintenance, Air balancing and ductwork fabrication",Available,2,3.79,1
+200,Mr. Troy Cruz,Python Backend Developer,"Docker and CI/CD, PostgreSQL optimization, Python Backend Developer, FastAPI microservices, Experience at Bridges, Hughes and Jones using GCP",Available,3,3.89,1
+201,Russell Williamson,Electrician,"Licensed industrial electrician, NFPA 70E compliant, High-voltage maintenance, Works per ASME standards",Busy,16,4.81,0
+202,Alyssa Watkins,HVAC Technician,"Chiller maintenance, EPA 608 certified, Air balancing and ductwork fabrication",Busy,8,3.72,0
+203,Kurt Mccoy,Safety Inspector,"Conducts site safety audits, Trains staff on lockout/tagout, Root cause incident analysis",Available,9,4.42,1
+204,Jeremy Barker,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Experienced with pallet stacking and warehouse safety, Certified Forklift Operator, Experience with Fischer Inc equipment",Available,9,3.93,1
+205,Tina Rodriguez,Data Analyst,"ETL pipelines, Power BI dashboards, SQL data modeling, Experience at Sullivan, Reyes and Parker using Azure",Available,5,3.6,1
+206,Thomas Smith,Python Backend Developer,"Python Backend Developer, Docker and CI/CD, Experience at Kline, Rice and Brown using GCP",Available,3,3.28,1
+207,John Collins,Safety Inspector,"Conducts site safety audits, Root cause incident analysis",Available,14,4.22,1
+208,Victoria Mendoza,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Works per ANSI standards",Available,8,4.08,1
+209,Rodney Terrell,General Laborer,"Site cleanup, Basic tool operation",Available,2,3.05,1
+210,Michele Lewis,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Experience with Neal LLC equipment",Available,13,4.04,1
+211,April Ramirez,General Laborer,"Site cleanup, Warehouse picking",Available,10,3.96,1
+212,Donald Brown,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Available,4,3.69,1
+213,Cole Taylor,Welder,"Expert in TIG welding, Certified in ASME Section IX welding, Works per NFPA standards",Busy,11,4.32,0
+214,Scott Jackson,Welder,"Certified in ASME Section IX welding, Expert in TIG welding, Works per ASME standards",Busy,10,3.92,0
+215,Melissa Mcguire,Electrician,"NFPA 70E compliant, Troubleshooting PLC and control panels, Works per ANSI standards",Busy,7,4.01,0
+216,Joshua Robinson,Python Backend Developer,"Python Backend Developer, PostgreSQL optimization, Experience at Dunlap-Hill using GCP",Available,2,3.19,1
+217,Matthew Castillo,Data Analyst,"SQL data modeling, Power BI dashboards, ETL pipelines, Experience at Smith-Collins using AWS",Busy,10,3.87,0
+218,Charles Rivera DDS,HVAC Technician,"Air balancing and ductwork fabrication, Chiller maintenance, EPA 608 certified",Available,5,3.95,1
+219,Robin Scott,Project Manager,"Resource allocation and scheduling, Risk management and reporting",Available,18,4.59,1
+220,Morgan Jones,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,12,4.49,1
+221,James Marshall,Forklift Operator,"OSHA-compliant material handling, Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, Experienced with pallet stacking and warehouse safety, Experience with Vasquez PLC equipment",Available,15,3.87,1
+222,Matthew Frye,Safety Inspector,"Conducts site safety audits, Root cause incident analysis, Trains staff on lockout/tagout",Available,16,4.3,1
+223,John Miller,General Laborer,"Site cleanup, Warehouse picking",Busy,7,3.69,0
+224,Paul Raymond,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Busy,16,4.76,0
+225,Katie Gomez,General Laborer,"Site cleanup, Warehouse picking, Basic tool operation",Busy,6,3.64,0
+226,Jordan Palmer,Welder,"Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Expert in TIG welding, Certified in ASME Section IX welding, Works per ASME standards",Busy,2,3.42,0
+227,Christopher Odonnell,General Laborer,"Warehouse picking, Basic tool operation, Site cleanup",Busy,3,2.9,0
+228,Jeffrey Bell,Carpenter,"Cabinet installation, OSHA 30 certified",Available,13,4.05,1
+229,Patricia Ramos,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication",Busy,11,4.3,0
+230,Lisa Fisher,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Works per NFPA standards",Busy,10,4.09,0
+231,Steven Williams,General Laborer,"Basic tool operation, Warehouse picking, Site cleanup",Available,9,3.87,1
+232,Jesse Gonzalez,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout",Available,9,3.93,1
+233,Michelle Hill,Data Analyst,"ETL pipelines, SQL data modeling, Power BI dashboards, Experience at Holmes-Mcintosh using Azure",Available,2,3.42,1
+234,Peter Brown,General Laborer,"Basic tool operation, Warehouse picking, Site cleanup",Available,2,3.03,1
+235,Joseph Schmitt,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,17,4.92,1
+236,Travis Miller,Carpenter,"Finish carpentry and framing, Cabinet installation",Available,11,3.73,1
+237,Kevin Diaz,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, Works per NFPA standards",Busy,14,4.56,0
+238,Steven Thompson,Data Analyst,"SQL data modeling, Power BI dashboards, ETL pipelines, Experience at Martinez-Lutz using GCP",Available,7,4.16,1
+239,William Casey,Electrician,"Troubleshooting PLC and control panels, NFPA 70E compliant, Licensed industrial electrician, Works per ANSI standards",Available,13,4.27,1
+240,Gina Villanueva,General Laborer,"Basic tool operation, Warehouse picking, Site cleanup",Busy,2,3.39,0
+241,Steven Dunn,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Expert in TIG welding, Works per NFPA standards",Busy,12,4.41,0
+242,Gregory Carpenter,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Busy,0,2.73,0
+243,Susan Parks,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Available,7,4.13,1
+244,Jessica Coleman,General Laborer,"Basic tool operation, Site cleanup, Warehouse picking",Available,3,3.21,1
+245,Jamie Glenn,Carpenter,"Finish carpentry and framing, Cabinet installation, Blueprint reading and site layout, OSHA 30 certified",Available,4,3.31,1
+246,Mario Day,Python Backend Developer,"PostgreSQL optimization, FastAPI microservices, Experience at Sheppard PLC using GCP",Available,3,3.52,1
+247,Jaime Tran,Welder,"Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Certified in ASME Section IX welding, Works per ANSI standards",Busy,4,3.85,0
+248,Lindsay Smith,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Available,8,4.03,1
+249,Robert Andrews,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Works per ASME standards",Available,3,3.84,1
+250,Eddie Mayo,Safety Inspector,"Root cause incident analysis, Trains staff on lockout/tagout, Conducts site safety audits",Available,17,4.36,1
+251,Walter Mahoney,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis",Busy,19,4.93,0
+252,Michelle Stevenson,Python Backend Developer,"Docker and CI/CD, PostgreSQL optimization, Experience at Johnson-Page using GCP",Available,6,3.67,1
+253,Shawn Morgan,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,19,4.51,1
+254,Jason Dunn,HVAC Technician,"EPA 608 certified, Chiller maintenance, Air balancing and ductwork fabrication",Available,5,3.69,1
+255,Victor Ortiz,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Certified in ASME Section IX welding, Works per NFPA standards",Available,11,3.63,1
+256,Brandi Hensley,Forklift Operator,"Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, Experience with Harmon-Lawson equipment",Available,14,4.29,1
+257,Jeff Lee,Python Backend Developer,"Docker and CI/CD, PostgreSQL optimization, Python Backend Developer, FastAPI microservices, Experience at Gill Inc using Azure",Busy,5,3.5,0
+258,Timothy Cain,Forklift Operator,"OSHA-compliant material handling, Certified Forklift Operator, Experience with David, Nunez and Kramer equipment",Available,10,3.76,1
+259,Michelle Reynolds,Electrician,"Licensed industrial electrician, NFPA 70E compliant, High-voltage maintenance, Troubleshooting PLC and control panels, Works per ANSI standards",Busy,12,4.69,0
+260,Joshua Yoder MD,Carpenter,"Finish carpentry and framing, OSHA 30 certified",Busy,7,3.47,0
+261,Juan Miller,Mechanic,"Preventive maintenance scheduling, Diesel engine diagnostics, Hydraulic system repair, Experience with Clark, Odonnell and Rice equipment",Busy,13,3.96,0
+262,Paul Mathews,HVAC Technician,"Air balancing and ductwork fabrication, EPA 608 certified, Chiller maintenance",Busy,3,3.8,0
+263,Gabriella Weiss,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Available,5,3.02,1
+264,Morgan Hernandez,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication",Busy,10,3.93,0
+265,Todd Silva,Welder,"Certified in ASME Section IX welding, Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Works per ANSI standards",Available,11,3.78,1
+266,Jodi Golden,Electrician,"NFPA 70E compliant, High-voltage maintenance, Licensed industrial electrician, Troubleshooting PLC and control panels, Works per ASME standards",Available,12,4.01,1
+267,Lisa Miller,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Available,7,3.62,1
+268,Steven Brown,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Busy,5,3.66,0
+269,Patrick Carr,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout, OSHA 30 certified, Cabinet installation",Busy,3,3.13,0
+270,David Marsh,Welder,"Experience welding stainless and aluminum, Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Works per ANSI standards",Available,11,3.77,1
+271,Sonya Brown,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Busy,4,3.57,0
+272,Scott Moore,Electrician,"Troubleshooting PLC and control panels, High-voltage maintenance, Works per ANSI standards",Available,7,3.71,1
+273,Dennis Cain,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Experience with Maynard, Poole and Blankenship equipment",Available,11,4.16,1
+274,Teresa Lopez,General Laborer,"Site cleanup, Warehouse picking, Basic tool operation",Available,5,3.02,1
+275,Katelyn Mcguire,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Experienced with pallet stacking and warehouse safety, Experience with Flores and Sons equipment",Busy,6,3.32,0
+276,Kevin Weaver,HVAC Technician,"Chiller maintenance, Air balancing and ductwork fabrication",Busy,9,3.48,0
+277,Joe Acosta,HVAC Technician,"Air balancing and ductwork fabrication, Chiller maintenance, EPA 608 certified",Available,12,3.79,1
+278,Henry Freeman,Data Analyst,"ETL pipelines, SQL data modeling, Power BI dashboards, Experience at Salazar LLC using Azure",Busy,8,3.72,0
+279,Lisa Snyder,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Busy,7,4.09,0
+280,James Ali,HVAC Technician,"Chiller maintenance, EPA 608 certified",Available,9,3.91,1
+281,David Morgan,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Experience with Salinas, Bell and Smith equipment",Busy,7,3.78,0
+282,Charles Gonzalez,Project Manager,"Risk management and reporting, PMP certified",Busy,14,4.78,0
+283,James Rowe,Welder,"Experience welding stainless and aluminum, Certified in ASME Section IX welding, Works per ANSI standards",Available,7,3.84,1
+284,Alex Walters,Safety Inspector,"Trains staff on lockout/tagout, Conducts site safety audits",Available,7,4.39,1
+285,Whitney Hernandez,Forklift Operator,"Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Experience with Fowler Inc equipment",Available,14,4.2,1
+286,Mario Jennings,HVAC Technician,"Air balancing and ductwork fabrication, Chiller maintenance",Available,13,4.09,1
+287,Sarah Lawson,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication",Busy,2,3.63,0
+288,John Lozano,HVAC Technician,"Air balancing and ductwork fabrication, Chiller maintenance, EPA 608 certified",Available,15,4.07,1
+289,Kevin Anderson,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Busy,2,2.84,0
+290,Sonya Wilson,Project Manager,"PMP certified, Risk management and reporting, Resource allocation and scheduling",Available,14,4.42,1
+291,Lori Johnson,Electrician,"NFPA 70E compliant, High-voltage maintenance, Works per ASME standards",Available,15,4.63,1
+292,Chelsea Swanson,Forklift Operator,"Experienced with pallet stacking and warehouse safety, Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Experience with Stark-Santiago equipment",Available,5,3.63,1
+293,Steven Mueller,HVAC Technician,"Air balancing and ductwork fabrication, EPA 608 certified, Chiller maintenance",Busy,10,3.92,0
+294,Jason Smith,Data Analyst,"Power BI dashboards, SQL data modeling, Experience at Wong-Rasmussen using AWS",Busy,12,3.88,0
+295,Nicole Martin,Python Backend Developer,"Python Backend Developer, Docker and CI/CD, Experience at Singh, French and Dennis using AWS",Available,1,3.08,1
+296,Jeremy Gonzalez,Electrician,"High-voltage maintenance, Licensed industrial electrician, Troubleshooting PLC and control panels, NFPA 70E compliant, Works per NFPA standards",Available,19,4.55,1
+297,Anna Hicks DDS,Python Backend Developer,"FastAPI microservices, Python Backend Developer, PostgreSQL optimization, Docker and CI/CD, Experience at Jones LLC using GCP",Available,3,3.81,1
+298,Thomas Berry,HVAC Technician,"Chiller maintenance, Air balancing and ductwork fabrication, EPA 608 certified",Available,8,3.67,1
+299,William Shelton,Data Analyst,"Power BI dashboards, ETL pipelines, SQL data modeling, Experience at Goodwin-Hopkins using Azure",Available,9,3.57,1
+300,Joseph Williams,Electrician,"Licensed industrial electrician, NFPA 70E compliant, Troubleshooting PLC and control panels, High-voltage maintenance, Works per ASME standards",Available,10,3.99,1
+301,Joy Nash,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication",Busy,10,4.15,0
+302,Rebecca Erickson,Project Manager,"PMP certified, Resource allocation and scheduling, Risk management and reporting",Busy,12,4.24,0
+303,James Jones,Electrician,"NFPA 70E compliant, Troubleshooting PLC and control panels, High-voltage maintenance, Works per ASME standards",Available,20,4.9,1
+304,Dwayne Andrews,Forklift Operator,"OSHA-compliant material handling, Experienced with pallet stacking and warehouse safety, Experience with Sanders-Adams equipment",Available,14,4.17,1
+305,Victor Kelly,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Experience with Vaughn LLC equipment",Busy,7,3.51,0
+306,Caleb Spencer,HVAC Technician,"Air balancing and ductwork fabrication, Chiller maintenance, EPA 608 certified",Available,3,3.66,1
+307,Alexander York,Project Manager,"PMP certified, Resource allocation and scheduling, Risk management and reporting",Busy,18,5.0,0
+308,Peggy Allen,Data Analyst,"Power BI dashboards, ETL pipelines, Experience at Church-Lindsey using Azure",Available,7,3.64,1
+309,Sarah Robinson,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, NFPA 70E compliant, Works per NFPA standards",Available,19,4.84,1
+310,Lauren Pugh,Electrician,"High-voltage maintenance, Troubleshooting PLC and control panels, Licensed industrial electrician, Works per NFPA standards",Available,13,4.13,1
+311,David Bolton,Mechanic,"Hydraulic system repair, Diesel engine diagnostics, Experience with Clark PLC equipment",Available,7,4.01,1
+312,Veronica Smith,Carpenter,"OSHA 30 certified, Cabinet installation, Finish carpentry and framing",Busy,15,3.93,0
+313,Kaitlyn Jones,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, OSHA-compliant material handling, Experienced with pallet stacking and warehouse safety, Experience with Fitzgerald Group equipment",Available,8,3.55,1
+314,Steven Cameron,Python Backend Developer,"FastAPI microservices, Docker and CI/CD, Experience at Jackson LLC using Azure",Busy,10,4.22,0
+315,Jason Curry,Carpenter,"Cabinet installation, Finish carpentry and framing, Blueprint reading and site layout, OSHA 30 certified",Busy,15,4.37,0
+316,Tyler Smith,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Available,20,4.8,1
+317,Carl Bridges,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,19,4.95,1
+318,Sarah Cox,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout",Busy,8,4.09,0
+319,Pamela Knox,Welder,"Certified in ASME Section IX welding, Expert in TIG welding, Experience welding stainless and aluminum, Proficient in MIG welding for thin-gauge steel, Works per ANSI standards",Available,13,3.69,1
+320,David Blevins,Python Backend Developer,"FastAPI microservices, Python Backend Developer, Experience at Rojas, Bennett and Wilson using GCP",Busy,6,4.04,0
+321,Joshua Bowman,Forklift Operator,"OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, Experienced with pallet stacking and warehouse safety, Experience with Peterson-Merritt equipment",Available,9,4.02,1
+322,Nicholas Miller,Electrician,"High-voltage maintenance, NFPA 70E compliant, Troubleshooting PLC and control panels, Licensed industrial electrician, Works per NFPA standards",Busy,14,4.45,0
+323,Sherry Myers,Project Manager,"PMP certified, Risk management and reporting",Busy,15,4.13,0
+324,Kyle Munoz,Electrician,"NFPA 70E compliant, Troubleshooting PLC and control panels, Works per ANSI standards",Available,7,3.89,1
+325,Alicia Ritter,Python Backend Developer,"Python Backend Developer, PostgreSQL optimization, FastAPI microservices, Experience at Lopez Inc using Azure",Available,8,3.63,1
+326,Rebecca Hobbs,Mechanic,"Diesel engine diagnostics, Preventive maintenance scheduling, Hydraulic system repair, Experience with Clay, Mcconnell and Dixon equipment",Available,4,3.21,1
+327,Dale Hooper,Welder,"Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Expert in TIG welding, Certified in ASME Section IX welding, Works per ASME standards",Available,13,3.84,1
+328,Steven Tucker,Safety Inspector,"Trains staff on lockout/tagout, Conducts site safety audits, Root cause incident analysis",Busy,11,4.31,0
+329,Connie Burnett,Python Backend Developer,"FastAPI microservices, PostgreSQL optimization, Docker and CI/CD, Experience at Turner LLC using Azure",Available,7,3.55,1
+330,Dana Russell,Python Backend Developer,"Docker and CI/CD, PostgreSQL optimization, FastAPI microservices, Experience at Klein, Harris and Bryant using AWS",Busy,10,3.67,0
+331,Renee Callahan,Forklift Operator,"OSHA-compliant material handling, Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, Experience with Spencer PLC equipment",Busy,5,3.39,0
+332,Julie Brandt,Forklift Operator,"Experienced with pallet stacking and warehouse safety, Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Certified Forklift Operator, Experience with Williams, Lee and Diaz equipment",Busy,4,3.3,0
+333,Jimmy Chapman,Project Manager,"PMP certified, Risk management and reporting, Resource allocation and scheduling",Available,10,4.12,1
+334,Michael Watts,Python Backend Developer,"PostgreSQL optimization, Python Backend Developer, Experience at Jenkins, Harrell and Cruz using GCP",Available,6,3.91,1
+335,James Roberts,General Laborer,"Warehouse picking, Basic tool operation, Site cleanup",Available,9,3.54,1
+336,Jacqueline Ford,Carpenter,"OSHA 30 certified, Cabinet installation, Finish carpentry and framing",Busy,6,3.85,0
+337,Danielle Wilson,Python Backend Developer,"PostgreSQL optimization, FastAPI microservices, Python Backend Developer, Experience at Chandler Inc using Azure",Available,9,4.27,1
+338,Rebecca Newton,Safety Inspector,"Conducts site safety audits, Root cause incident analysis, Trains staff on lockout/tagout",Busy,8,4.02,0
+339,Crystal Coffey,Welder,"Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Works per ASME standards",Busy,4,3.25,0
+340,Jessica Wilson DDS,Welder,"Certified in ASME Section IX welding, Expert in TIG welding, Experience welding stainless and aluminum, Works per NFPA standards",Available,8,3.89,1
+341,Nicholas Foster,Electrician,"NFPA 70E compliant, High-voltage maintenance, Licensed industrial electrician, Troubleshooting PLC and control panels, Works per ASME standards",Available,9,4.0,1
+342,Steven Richards,General Laborer,"Basic tool operation, Site cleanup",Available,7,3.66,1
+343,Robert Rodriguez,General Laborer,"Warehouse picking, Site cleanup",Busy,4,3.29,0
+344,Robert Anderson,HVAC Technician,"Chiller maintenance, Air balancing and ductwork fabrication, EPA 608 certified",Available,14,3.88,1
+345,Lisa Robbins,General Laborer,"Basic tool operation, Site cleanup",Available,0,3.09,1
+346,Jamie Holden,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Available,10,4.1,1
+347,Jason Mason,Welder,"Expert in TIG welding, Experience welding stainless and aluminum, Proficient in MIG welding for thin-gauge steel, Works per NFPA standards",Available,7,3.53,1
+348,Keith Petersen,Mechanic,"Preventive maintenance scheduling, Diesel engine diagnostics, Hydraulic system repair, Experience with Martinez PLC equipment",Available,4,3.66,1
+349,Michael Castillo,General Laborer,"Warehouse picking, Basic tool operation, Site cleanup",Busy,9,3.27,0
+350,Carrie Ramirez,General Laborer,"Site cleanup, Basic tool operation",Busy,3,2.92,0
+351,Kevin Taylor,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Experienced with pallet stacking and warehouse safety, OSHA-compliant material handling, Certified Forklift Operator, Experience with Sims PLC equipment",Available,14,4.52,1
+352,Jennifer Weeks,Electrician,"Troubleshooting PLC and control panels, Licensed industrial electrician, High-voltage maintenance, Works per ASME standards",Available,20,4.91,1
+353,Juan Romero,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,7,4.4,1
+354,Nicholas Gilbert,HVAC Technician,"Air balancing and ductwork fabrication, EPA 608 certified, Chiller maintenance",Available,14,4.45,1
+355,Mr. Hayden Parrish,Carpenter,"Cabinet installation, OSHA 30 certified, Finish carpentry and framing",Available,6,3.35,1
+356,Tony Davies,Mechanic,"Preventive maintenance scheduling, Diesel engine diagnostics, Hydraulic system repair, Experience with Smith-Brown equipment",Available,2,3.54,1
+357,Maria Sanford,Electrician,"High-voltage maintenance, NFPA 70E compliant, Troubleshooting PLC and control panels, Licensed industrial electrician, Works per ASME standards",Available,11,4.15,1
+358,Kenneth King,Safety Inspector,"Root cause incident analysis, Conducts site safety audits, Trains staff on lockout/tagout",Available,16,4.51,1
+359,Dennis Davis,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Available,3,3.33,1
+360,Ronald Calderon,Data Analyst,"Power BI dashboards, SQL data modeling, Experience at Mullins, Vasquez and Hughes using Azure",Busy,8,3.64,0
+361,Gordon Hunter,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Experience welding stainless and aluminum, Expert in TIG welding, Works per ANSI standards",Available,14,3.95,1
+362,Jacob Taylor,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Busy,10,4.34,0
+363,Leah Martinez,Welder,"Certified in ASME Section IX welding, Experience welding stainless and aluminum, Proficient in MIG welding for thin-gauge steel, Works per ANSI standards",Available,2,3.47,1
+364,Michael Brown,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Preventive maintenance scheduling, Experience with Roberts, Hall and Garner equipment",Available,3,3.63,1
+365,Amanda Hoffman,HVAC Technician,"Air balancing and ductwork fabrication, EPA 608 certified",Busy,2,3.63,0
+366,Dylan Mckinney,Mechanic,"Preventive maintenance scheduling, Diesel engine diagnostics, Experience with Bishop, Martinez and Hamilton equipment",Available,5,3.88,1
+367,Colleen Graham,HVAC Technician,"Air balancing and ductwork fabrication, EPA 608 certified, Chiller maintenance",Busy,9,3.57,0
+368,Sandra Frye,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Preventive maintenance scheduling, Experience with Lee, Larsen and Robbins equipment",Available,15,4.49,1
+369,Angela Cohen,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout, OSHA 30 certified, Cabinet installation",Available,6,3.82,1
+370,Crystal Erickson,Safety Inspector,"Root cause incident analysis, Conducts site safety audits",Busy,10,4.32,0
+371,Dan Espinoza,Python Backend Developer,"FastAPI microservices, Docker and CI/CD, Python Backend Developer, Experience at Navarro, Wells and Petersen using Azure",Available,2,3.2,1
+372,Samantha Dominguez,Welder,"Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Experience welding stainless and aluminum, Certified in ASME Section IX welding, Works per ASME standards",Busy,6,3.94,0
+373,Alec Carter,Forklift Operator,"Certified Forklift Operator, Experienced with pallet stacking and warehouse safety, OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Experience with Hill-Fischer equipment",Available,14,3.88,1
+374,Daniel Garcia,Mechanic,"Hydraulic system repair, Preventive maintenance scheduling, Experience with Wiley LLC equipment",Available,5,3.3,1
+375,Caleb Brown,Data Analyst,"SQL data modeling, Power BI dashboards, ETL pipelines, Experience at Mccall, Cobb and Leon using AWS",Available,4,3.29,1
+376,Michael Hurst,Data Analyst,"Power BI dashboards, ETL pipelines, Experience at Bryant, Hughes and Butler using Azure",Available,12,4.45,1
+377,Logan Smith,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Available,12,4.49,1
+378,Heather Frank,Data Analyst,"ETL pipelines, SQL data modeling, Experience at Casey Ltd using Azure",Busy,4,3.77,0
+379,Evan Wallace,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Moore, Thomas and Young using GCP",Busy,12,3.99,0
+380,Amy Martin,Safety Inspector,"Conducts site safety audits, Root cause incident analysis, Trains staff on lockout/tagout",Available,11,3.96,1
+381,Jonathan Williams,Data Analyst,"ETL pipelines, Power BI dashboards, SQL data modeling, Experience at Short, Wright and Pham using AWS",Available,8,4.06,1
+382,Jennifer Lewis,Python Backend Developer,"FastAPI microservices, Docker and CI/CD, Python Backend Developer, PostgreSQL optimization, Experience at Jenkins-Hunter using AWS",Busy,11,3.98,0
+383,Kenneth Gonzalez,Project Manager,"Risk management and reporting, PMP certified",Available,12,4.45,1
+384,Jordan Davis,Python Backend Developer,"FastAPI microservices, Python Backend Developer, Docker and CI/CD, PostgreSQL optimization, Experience at West Inc using AWS",Available,3,3.71,1
+385,Charles Patterson,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Available,13,4.27,1
+386,Steven Cortez,Carpenter,"Finish carpentry and framing, Cabinet installation, OSHA 30 certified, Blueprint reading and site layout",Available,8,4.0,1
+387,Scott Henderson,Data Analyst,"ETL pipelines, Power BI dashboards, SQL data modeling, Experience at Diaz-Fuentes using GCP",Available,2,3.35,1
+388,Sarah Bolton,Electrician,"Troubleshooting PLC and control panels, NFPA 70E compliant, Licensed industrial electrician, High-voltage maintenance, Works per ASME standards",Available,6,3.59,1
+389,Eric Cruz,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication",Available,4,3.17,1
+390,Anna Walters,General Laborer,"Site cleanup, Warehouse picking, Basic tool operation",Available,10,3.64,1
+391,Caroline Alexander,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Busy,10,3.95,0
+392,Alexander Hall,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout, OSHA 30 certified, Cabinet installation",Available,11,4.05,1
+393,James Thompson,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Available,13,4.11,1
+394,Brittany Turner,HVAC Technician,"Chiller maintenance, Air balancing and ductwork fabrication",Busy,13,3.82,0
+395,Cindy Wade,General Laborer,"Warehouse picking, Basic tool operation",Available,5,3.2,1
+396,Samantha Villarreal,Python Backend Developer,"Python Backend Developer, FastAPI microservices, PostgreSQL optimization, Docker and CI/CD, Experience at Grant, Wong and Nunez using GCP",Busy,4,4.0,0
+397,Larry Gilbert,Forklift Operator,"OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Experienced with pallet stacking and warehouse safety, Certified Forklift Operator, Experience with Smith and Sons equipment",Available,12,4.05,1
+398,Mitchell Arnold,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Diesel engine diagnostics, Experience with Ruiz, Arias and Robinson equipment",Busy,10,3.65,0
+399,Hannah Brady,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Available,9,3.84,1
+400,Robert Price,Mechanic,"Diesel engine diagnostics, Preventive maintenance scheduling, Hydraulic system repair, Experience with Wilson Ltd equipment",Busy,6,3.28,0
+401,Chad Coffey,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,16,4.38,1
+402,Megan Smith,Welder,"Certified in ASME Section IX welding, Experience welding stainless and aluminum, Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Works per NFPA standards",Busy,3,3.12,0
+403,Carol Adams,Safety Inspector,"Root cause incident analysis, Trains staff on lockout/tagout",Busy,8,3.78,0
+404,Cynthia Watkins,Electrician,"NFPA 70E compliant, Troubleshooting PLC and control panels, Works per ASME standards",Busy,13,4.53,0
+405,Melissa Porter,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication, Chiller maintenance",Available,2,3.3,1
+406,Heidi Miller,Electrician,"Troubleshooting PLC and control panels, NFPA 70E compliant, High-voltage maintenance, Licensed industrial electrician, Works per ASME standards",Available,14,4.45,1
+407,Ricky Fuller,Electrician,"Troubleshooting PLC and control panels, Licensed industrial electrician, NFPA 70E compliant, Works per ASME standards",Available,20,4.82,1
+408,Michelle Orozco,Python Backend Developer,"Docker and CI/CD, Python Backend Developer, PostgreSQL optimization, Experience at Becker-Stewart using GCP",Available,4,3.8,1
+409,Ashley Calhoun,Mechanic,"Hydraulic system repair, Diesel engine diagnostics, Experience with Fields, Boyd and Bell equipment",Busy,9,3.47,0
+410,Christina Mason,Forklift Operator,"OSHA-compliant material handling, Experienced with pallet stacking and warehouse safety, Operates Toyota 8FGCU25 forklifts, Experience with Martinez Group equipment",Busy,15,4.55,0
+411,Joshua Cameron,Project Manager,"PMP certified, Resource allocation and scheduling, Risk management and reporting",Available,17,4.37,1
+412,Kristy Lambert,General Laborer,"Site cleanup, Warehouse picking, Basic tool operation",Busy,7,3.7,0
+413,Leslie Howard,Safety Inspector,"Root cause incident analysis, Conducts site safety audits, Trains staff on lockout/tagout",Available,20,4.65,1
+414,Nathaniel Coleman DDS,General Laborer,"Basic tool operation, Site cleanup",Available,7,3.74,1
+415,Thomas Jackson,Carpenter,"Blueprint reading and site layout, Cabinet installation, Finish carpentry and framing, OSHA 30 certified",Busy,3,3.48,0
+416,Matthew Roman,Electrician,"High-voltage maintenance, NFPA 70E compliant, Troubleshooting PLC and control panels, Works per ANSI standards",Busy,15,4.24,0
+417,Kimberly Pitts,Data Analyst,"ETL pipelines, SQL data modeling, Experience at Zimmerman, Hunter and George using AWS",Available,7,3.85,1
+418,Felicia Weiss,Forklift Operator,"OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Experience with Stewart, Ortiz and Shaffer equipment",Available,11,4.34,1
+419,Jenna Lewis,HVAC Technician,"Air balancing and ductwork fabrication, EPA 608 certified, Chiller maintenance",Available,15,4.42,1
+420,Tyler Kline,Project Manager,"Risk management and reporting, PMP certified, Resource allocation and scheduling",Available,5,4.06,1
+421,Stacy Long DDS,General Laborer,"Basic tool operation, Site cleanup",Busy,10,3.92,0
+422,Christopher Adams,HVAC Technician,"EPA 608 certified, Air balancing and ductwork fabrication",Available,3,3.45,1
+423,Terry Franco,Project Manager,"Resource allocation and scheduling, Risk management and reporting",Busy,14,4.48,0
+424,Nathan Knight,Python Backend Developer,"Docker and CI/CD, FastAPI microservices, Experience at Yates, Edwards and Alexander using Azure",Available,7,3.62,1
+425,Diane Wilson,Carpenter,"OSHA 30 certified, Cabinet installation",Available,13,3.84,1
+426,Adam Fletcher,Data Analyst,"ETL pipelines, SQL data modeling, Power BI dashboards, Experience at Walker and Sons using GCP",Available,1,3.29,1
+427,Aaron Turner,Forklift Operator,"Experienced with pallet stacking and warehouse safety, OSHA-compliant material handling, Experience with Mccullough-Moore equipment",Available,4,3.64,1
+428,Samuel Foster,HVAC Technician,"EPA 608 certified, Chiller maintenance",Available,4,3.89,1
+429,Ashley Olsen,Welder,"Certified in ASME Section IX welding, Proficient in MIG welding for thin-gauge steel, Expert in TIG welding, Experience welding stainless and aluminum, Works per ASME standards",Available,15,3.86,1
+430,Natalie Bolton,Data Analyst,"Power BI dashboards, ETL pipelines, SQL data modeling, Experience at Roberts LLC using GCP",Available,8,3.65,1
+431,Erika Rogers,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Lynn Ltd using GCP",Busy,1,3.71,0
+432,Kimberly Curtis,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Busy,10,4.18,0
+433,Lucas Proctor,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Available,13,4.31,1
+434,Richard Barnett,Carpenter,"OSHA 30 certified, Cabinet installation, Finish carpentry and framing",Available,13,4.33,1
+435,Michael Haley,Project Manager,"Resource allocation and scheduling, PMP certified, Risk management and reporting",Busy,13,4.77,0
+436,Timothy Payne,Safety Inspector,"Root cause incident analysis, Conducts site safety audits, Trains staff on lockout/tagout",Available,15,4.67,1
+437,Timothy Macdonald,Python Backend Developer,"Docker and CI/CD, Python Backend Developer, Experience at Fowler-Williams using Azure",Busy,3,3.19,0
+438,Ronald Jackson,Welder,"Experience welding stainless and aluminum, Certified in ASME Section IX welding, Expert in TIG welding, Works per ASME standards",Available,6,3.43,1
+439,Belinda Braun,Carpenter,"Cabinet installation, Blueprint reading and site layout",Busy,5,3.26,0
+440,Susan Spencer,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Works per NFPA standards",Available,11,3.78,1
+441,Daisy Long,Carpenter,"Finish carpentry and framing, OSHA 30 certified, Cabinet installation, Blueprint reading and site layout",Available,3,3.24,1
+442,Adrienne Adkins,General Laborer,"Site cleanup, Basic tool operation, Warehouse picking",Available,7,3.25,1
+443,Sabrina Jensen,Electrician,"NFPA 70E compliant, High-voltage maintenance, Licensed industrial electrician, Works per NFPA standards",Available,14,4.7,1
+444,Christina Martinez,Safety Inspector,"Conducts site safety audits, Trains staff on lockout/tagout",Available,10,3.82,1
+445,Nichole Shaw,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Experience with Ford Inc equipment",Available,13,4.43,1
+446,Kelly Rogers,Safety Inspector,"Conducts site safety audits, Root cause incident analysis, Trains staff on lockout/tagout",Available,9,3.86,1
+447,Carrie Wilson,Mechanic,"Diesel engine diagnostics, Preventive maintenance scheduling, Experience with Anderson Inc equipment",Available,13,4.13,1
+448,Hannah Daniels,General Laborer,"Basic tool operation, Warehouse picking, Site cleanup",Available,1,3.28,1
+449,Holly Jimenez,HVAC Technician,"Chiller maintenance, EPA 608 certified, Air balancing and ductwork fabrication",Busy,8,3.75,0
+450,Jerry Brown,Data Analyst,"Power BI dashboards, ETL pipelines, Experience at Mckenzie LLC using AWS",Available,3,3.94,1
+451,Susan Reid,Data Analyst,"Power BI dashboards, ETL pipelines, SQL data modeling, Experience at Nelson, Keller and Huerta using GCP",Available,5,3.74,1
+452,Larry Fletcher,Data Analyst,"SQL data modeling, ETL pipelines, Power BI dashboards, Experience at Griffin, Riley and Smith using Azure",Available,8,3.56,1
+453,Allison Watkins,Forklift Operator,"OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, Experience with Greene, Harrison and Buck equipment",Available,7,3.41,1
+454,Pamela Buck MD,Mechanic,"Hydraulic system repair, Diesel engine diagnostics, Preventive maintenance scheduling, Experience with James-Garner equipment",Available,4,3.79,1
+455,Dawn Olson,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Expert in TIG welding, Works per ANSI standards",Available,3,3.52,1
+456,Walter Clark,Welder,"Experience welding stainless and aluminum, Expert in TIG welding, Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Works per ASME standards",Busy,6,3.76,0
+457,Larry Parker,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Mathis, Potter and Porter using AWS",Busy,6,3.91,0
+458,Stephanie Moore,Project Manager,"Resource allocation and scheduling, Risk management and reporting, PMP certified",Available,18,4.84,1
+459,Kristopher Richardson,Python Backend Developer,"Docker and CI/CD, FastAPI microservices, PostgreSQL optimization, Experience at Richmond LLC using GCP",Available,9,4.22,1
+460,Christina Smith,Python Backend Developer,"Docker and CI/CD, FastAPI microservices, Python Backend Developer, PostgreSQL optimization, Experience at Nunez, Hayden and Salas using AWS",Available,7,3.94,1
+461,Kelly Carlson,Python Backend Developer,"Python Backend Developer, FastAPI microservices, PostgreSQL optimization, Docker and CI/CD, Experience at Moreno, Oneill and Mcclain using GCP",Available,5,3.45,1
+462,Mary Mitchell,Electrician,"NFPA 70E compliant, High-voltage maintenance, Troubleshooting PLC and control panels, Licensed industrial electrician, Works per ASME standards",Available,18,5.0,1
+463,John Poole,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Experience welding stainless and aluminum, Works per NFPA standards",Available,10,4.06,1
+464,Sonya Bell,Mechanic,"Diesel engine diagnostics, Hydraulic system repair, Preventive maintenance scheduling, Experience with Waller Ltd equipment",Busy,6,4.03,0
+465,Stacey Taylor,Data Analyst,"Power BI dashboards, SQL data modeling, Experience at Stanley LLC using Azure",Busy,8,3.98,0
+466,Aaron Jordan,Data Analyst,"SQL data modeling, Power BI dashboards, ETL pipelines, Experience at Walker-Sandoval using Azure",Available,11,4.43,1
+467,Alyssa Gonzales,HVAC Technician,"Chiller maintenance, EPA 608 certified, Air balancing and ductwork fabrication",Busy,9,3.87,0
+468,Nancy Rogers,Carpenter,"Cabinet installation, Finish carpentry and framing, Blueprint reading and site layout, OSHA 30 certified",Busy,7,3.52,0
+469,Christopher Baker,Safety Inspector,"Conducts site safety audits, Root cause incident analysis, Trains staff on lockout/tagout",Busy,14,4.32,0
+470,Erin Lewis,Safety Inspector,"Root cause incident analysis, Conducts site safety audits, Trains staff on lockout/tagout",Busy,19,5.0,0
+471,Jonathan Gregory,Mechanic,"Preventive maintenance scheduling, Diesel engine diagnostics, Experience with Little PLC equipment",Available,8,3.77,1
+472,Dorothy Hall,Data Analyst,"ETL pipelines, SQL data modeling, Experience at Mccullough, Barker and Medina using AWS",Busy,12,4.48,0
+473,Luke Kelly,Python Backend Developer,"Python Backend Developer, PostgreSQL optimization, Docker and CI/CD, Experience at Cox and Sons using Azure",Busy,9,4.17,0
+474,Angela Duffy MD,Python Backend Developer,"Docker and CI/CD, FastAPI microservices, Experience at Hughes Inc using GCP",Busy,7,3.47,0
+475,Shawn Cunningham,Mechanic,"Hydraulic system repair, Preventive maintenance scheduling, Diesel engine diagnostics, Experience with Lloyd-Wolf equipment",Available,5,3.44,1
+476,Maria Weaver,Data Analyst,"ETL pipelines, SQL data modeling, Power BI dashboards, Experience at Jones Inc using Azure",Available,6,3.74,1
+477,Eric Clark,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout, OSHA 30 certified, Cabinet installation",Available,8,3.43,1
+478,Danielle Watkins,Welder,"Proficient in MIG welding for thin-gauge steel, Certified in ASME Section IX welding, Expert in TIG welding, Experience welding stainless and aluminum, Works per ANSI standards",Available,8,3.61,1
+479,Brenda Mendez,Python Backend Developer,"FastAPI microservices, Python Backend Developer, PostgreSQL optimization, Experience at Walker-Hopkins using AWS",Busy,10,4.3,0
+480,Jill Williams,Data Analyst,"SQL data modeling, ETL pipelines, Power BI dashboards, Experience at Hernandez PLC using GCP",Busy,10,3.96,0
+481,Katelyn Carter,Data Analyst,"ETL pipelines, Power BI dashboards, SQL data modeling, Experience at Bruce-Mcdowell using AWS",Available,1,3.8,1
+482,Laura Campbell,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Diesel engine diagnostics, Experience with Campbell LLC equipment",Available,5,3.42,1
+483,Scott Harris,Project Manager,"PMP certified, Resource allocation and scheduling, Risk management and reporting",Busy,8,3.92,0
+484,Caleb Moss,Safety Inspector,"Root cause incident analysis, Trains staff on lockout/tagout, Conducts site safety audits",Available,7,3.98,1
+485,Antonio Mayo,Project Manager,"Resource allocation and scheduling, PMP certified",Available,9,4.43,1
+486,Travis Wagner,Data Analyst,"Power BI dashboards, SQL data modeling, ETL pipelines, Experience at Bowman-Mitchell using GCP",Available,4,3.28,1
+487,Shaun Landry,Python Backend Developer,"Docker and CI/CD, PostgreSQL optimization, Experience at Morrison-Carter using GCP",Available,6,3.36,1
+488,Elizabeth Hamilton,Safety Inspector,"Conducts site safety audits, Trains staff on lockout/tagout, Root cause incident analysis",Available,18,4.83,1
+489,Theresa Montes,HVAC Technician,"Air balancing and ductwork fabrication, Chiller maintenance",Busy,11,4.22,0
+490,Adam Sharp,Data Analyst,"ETL pipelines, SQL data modeling, Experience at Smith, Santiago and Gibson using Azure",Available,11,3.73,1
+491,Richard Johnson,Carpenter,"Blueprint reading and site layout, Cabinet installation, OSHA 30 certified",Available,12,3.9,1
+492,Jacqueline Chavez,Mechanic,"Preventive maintenance scheduling, Hydraulic system repair, Experience with Edwards, Miller and Schmitt equipment",Available,9,3.62,1
+493,Danielle Haynes,Data Analyst,"ETL pipelines, Power BI dashboards, Experience at Garcia, Miranda and Middleton using Azure",Busy,11,3.87,0
+494,Kenneth Chambers,Forklift Operator,"Certified Forklift Operator, OSHA-compliant material handling, Operates Toyota 8FGCU25 forklifts, Experience with Nash-Fox equipment",Available,11,3.87,1
+495,Brittany Olson,Carpenter,"Finish carpentry and framing, Blueprint reading and site layout",Available,6,3.73,1
+496,Jessica Burke,Safety Inspector,"Trains staff on lockout/tagout, Root cause incident analysis, Conducts site safety audits",Busy,16,4.31,0
+497,Seth Lee,Forklift Operator,"Certified Forklift Operator, Operates Toyota 8FGCU25 forklifts, OSHA-compliant material handling, Experience with Andrade-Mann equipment",Busy,8,3.59,0
+498,Kaitlyn Pennington,Forklift Operator,"Operates Toyota 8FGCU25 forklifts, Certified Forklift Operator, Experience with Reid-Spears equipment",Available,9,3.93,1
+499,David Savage,Python Backend Developer,"FastAPI microservices, Docker and CI/CD, PostgreSQL optimization, Experience at Norris, Munoz and Johnson using AWS",Available,12,4.01,1
+500,Vanessa Kim,Project Manager,"Risk management and reporting, Resource allocation and scheduling, PMP certified",Busy,19,4.87,0
