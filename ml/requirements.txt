@@ -1,0 +1,53 @@
+# ==============================================================================
+# Worker Allocation System - Complete Dependencies
+# ==============================================================================
+# 
+# QUICK INSTALL (All Dependencies):
+#   pip install -r requirements.txt
+#
+# WITH GPU SUPPORT (for faster training):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu118
+#   pip install -r requirements.txt
+#
+# ==============================================================================
+
+# -----------------------
+# ML/AI Core Libraries
+# -----------------------
+torch>=2.0.0                    # PyTorch for deep learning
+transformers>=4.30.0            # Hugging Face transformers
+sentence-transformers>=2.2.0    # Sentence embeddings for worker matching
+scikit-learn>=1.3.0             # Decision tree & ML utilities
+
+# -----------------------
+# Data Processing
+# -----------------------
+pandas>=2.0.0                   # Data manipulation
+numpy>=1.24.0                   # Numerical computing
+datasets>=2.12.0                # Dataset handling for training
+
+# -----------------------
+# Model Training (Optional - for retraining SLM)
+# -----------------------
+peft>=0.4.0                     # Parameter-efficient fine-tuning
+accelerate>=0.20.0              # Training acceleration
+
+# -----------------------
+# API Server
+# -----------------------
+fastapi>=0.104.0                # Web API framework
+uvicorn>=0.24.0                 # ASGI server
+pydantic>=2.0.0                 # Data validation
+
+# -----------------------
+# Notifications
+# -----------------------
+pywebpush>=1.14.0               # Web push notifications
+python-dotenv>=1.0.0            # Environment variable loading
+
+# -----------------------
+# Utilities
+# -----------------------
+tqdm>=4.65.0                    # Progress bars
+matplotlib>=3.7.0               # Visualization (for training graphs)
+PyYAML>=6.0                     # Config file parsing
